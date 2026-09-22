@@ -12,7 +12,7 @@ public class GestorFonda {
 
     public void registrar(Bebida bebida){
     }
-    public void buscarPorNombre(Sting nombre){
+    public void buscarPorNombre(String nombre){
     }
     public void vender(String nombre, int unidades) {
     }
